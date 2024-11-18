@@ -106,4 +106,3 @@ AIChat supports custom dark and light themes, which highlight response text and 
 ## License
 
 Copyright (c) 2024 HackDefendr Security Research.
-See the LICENSE-APACHE and LICENSE-MIT files for license details.
